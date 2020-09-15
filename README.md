@@ -60,7 +60,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Database`
 
-* _empty_
+* [Implementing a key-value store](https://samrat.me/posts/2017-11-04-kvstore-linear-hashing/)
 
 #### Build your own `Docker`
 

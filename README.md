@@ -13,6 +13,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
+* [File system](#build-your-own-file-system)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
@@ -52,7 +53,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Bot`
 
-* [A bot for Starcraft in Rust, C or any other language_](https://habr.com/en/post/436254/)
+* [A bot for Starcraft in Rust, C or any other language](https://habr.com/en/post/436254/)
 
 #### Build your own `Command-Line Tool`
 
@@ -80,8 +81,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Game`
 
-* [Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
-* [Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
+* [Adventures in Rust: A Basic 2D Game](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
+* [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
 
 #### Build your own `Git`
 
@@ -89,8 +90,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Network Stack`
 
-* [Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
-* [Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
+* [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
+* [Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 
 #### Build your own `Neural Network`
 
@@ -98,7 +99,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Operating System`
 
-* [Writing an OS in Rust_](https://os.phil-opp.com/)
+* [Writing an OS in Rust](https://os.phil-opp.com/)
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 
@@ -108,8 +109,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Programming Language`
 
-* [So You Want to Build a Language VM_](https://blog.subnetzero.io/post/building-language-vm-part-00/)
-* [Learning Parser Combinators With Rust_](https://bodil.lol/parser-combinators/)
+* [So You Want to Build a Language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)
+* [Learning Parser Combinators With Rust](https://bodil.lol/parser-combinators/)
 
 #### Build your own `Regex Engine`
 
@@ -121,7 +122,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Shell`
 
-* [Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+* [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
 #### Build your own `Template Engine`
 

@@ -62,6 +62,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Database`
 
 * [Implementing a key-value store](https://samrat.me/posts/2017-11-04-kvstore-linear-hashing/)
+* [Building a Redis client and server](https://tokio.rs/tokio/tutorial)
 
 #### Build your own `Docker`
 

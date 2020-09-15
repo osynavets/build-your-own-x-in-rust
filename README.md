@@ -99,6 +99,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Operating System`
 
 * [Writing an OS in Rust_](https://os.phil-opp.com/)
+* [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 
 #### Build your own `Physics Engine`
 

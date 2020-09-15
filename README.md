@@ -85,6 +85,10 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Adventures in Rust: A Basic 2D Game](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
 
+#### Build your own `Garbage collector`
+
+* [Designing a GC in Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
+
 #### Build your own `Git`
 
 * _empty_

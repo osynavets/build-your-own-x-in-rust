@@ -100,6 +100,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Writing an OS in Rust_](https://os.phil-opp.com/)
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
+* [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 
 #### Build your own `Physics Engine`
 

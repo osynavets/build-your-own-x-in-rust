@@ -39,6 +39,10 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * _empty_
 
+#### `Algorithms / Data structures`
+
+* [Let's implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
+
 #### Build your own `Augmented Reality`
 
 * _empty_

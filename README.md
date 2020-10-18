@@ -66,7 +66,9 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
+#### Build your own `Virtual machine`
 
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
 #### Uncategorized
 

@@ -40,6 +40,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Adventures in Rust: A Basic 2D Game](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
+* [Roguelike Tutorial - In Rust + RLTK](https://bfnightly.bracketproductions.com/)
 * [Conway's Game of Life in Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/introduction.html#tutorial-conways-game-of-life)
 * [Creating a Pong clone with Rust and Tetra](https://tetra.seventeencups.net/tutorial/)
 

@@ -75,8 +75,9 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Uncategorized
 
-* [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+* [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/#implementing-the-ray-tracer)
+* [Graphics by Squares: a Gfx-rs Tutorial](https://suhr.github.io/gsgt/)
 
 
 

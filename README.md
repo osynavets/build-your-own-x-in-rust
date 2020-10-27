@@ -59,6 +59,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
+* [Create a UEFI application in Rust](https://gil0mendes.io/blog/an-efi-app-a-bit-rusty/)
 
 #### Build your own `Programming Language`
 

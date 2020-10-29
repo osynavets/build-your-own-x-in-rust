@@ -6,6 +6,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Algorithms / Data structures](#algorithms--data-structures)
 * [Bot](#build-your-own-bot)
+* [Blockchain](#build-your-own-blockchain)
 * [Database](#build-your-own-database)
 * [File system](#build-your-own-file-system)
 * [Game](#build-your-own-game)
@@ -26,6 +27,10 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Bot`
 
 * [A bot for Starcraft in Rust, C or any other language](https://habr.com/en/post/436254/)
+
+#### Build your own `Blockchain`
+
+* [Build a cryptocurrency! - Blockchain in Rust](https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
 
 #### Build your own `Database`
 

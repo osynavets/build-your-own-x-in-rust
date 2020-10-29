@@ -80,6 +80,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Let's build a browser engine](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/#implementing-the-ray-tracer)
 * [Graphics by Squares: a Gfx-rs Tutorial](https://suhr.github.io/gsgt/)
+* [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) 
 
 
 

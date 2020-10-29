@@ -31,6 +31,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Blockchain`
 
 * [Build a cryptocurrency! - Blockchain in Rust](https://www.youtube.com/playlist?list=PLwnSaD6BDfXL0RiKT_5nOIdxTxZWpPtAv)
+* [Building A Blockchain in Rust & Substrate](https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp)
 
 #### Build your own `Database`
 

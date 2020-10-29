@@ -81,6 +81,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Writing a small ray tracer in Rust and Zig](https://nelari.us/post/raytracer_with_rust_and_zig/#implementing-the-ray-tracer)
 * [Graphics by Squares: a Gfx-rs Tutorial](https://suhr.github.io/gsgt/)
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) 
+* [Implement your own green thread](https://cfsamson.github.io/books-futures-explained/6_future_example.html)
 
 
 

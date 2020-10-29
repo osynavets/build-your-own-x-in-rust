@@ -94,6 +94,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Implement your own green thread](https://cfsamson.github.io/books-futures-explained/6_future_example.html)
 * [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
 * [Async ZooKeeper client in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA)
+* [Implementing a Copyless Redis Protocol in Rust with Parsing Combinators](https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators)
 
 
 ## How to contribute 

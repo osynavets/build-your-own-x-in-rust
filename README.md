@@ -23,6 +23,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Algorithms / Data structures`
 
 * [Let's implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter/)
+* [Java's ConcurrentHashMap in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFj824-6QgnK_Za1187rNfnl)
+* [Live-coding a linked hash map in Rust](https://www.youtube.com/watch?v=k6xR2kf9hlA)
 
 #### Build your own `Bot`
 
@@ -60,6 +62,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [Writing Scalable Chat Service from Scratch](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [Making our own ping](https://fasterthanli.me/series/making-our-own-ping)
+* [Implementing TCP in Rust](https://www.youtube.com/watch?v=bzja9fQWzdA)
+* [Live-coding a Rust crate for asynchronous SSH connections](https://www.youtube.com/watch?v=RBQwZthJjoM&list=PLqbS7AVVErFjzlF3JSwzxttE1G0awWimV)
 
 #### Build your own `Operating System`
 
@@ -88,7 +92,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Graphics by Squares: a Gfx-rs Tutorial](https://suhr.github.io/gsgt/)
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) 
 * [Implement your own green thread](https://cfsamson.github.io/books-futures-explained/6_future_example.html)
-
+* [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
+* [Async ZooKeeper client in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA)
 
 
 ## How to contribute 

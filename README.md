@@ -97,6 +97,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Implementing a Copyless Redis Protocol in Rust with Parsing Combinators](https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators)
 * [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
+* [Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 
 
 ## How to contribute 

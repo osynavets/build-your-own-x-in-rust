@@ -57,6 +57,10 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Designing a GC in Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 
+#### Build your own `Microcontrollers`
+* [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)
+* [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-espressif/)
+
 #### Build your own `Network Stack`
 
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
@@ -95,7 +99,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
 * [Async ZooKeeper client in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA)
 * [Implementing a Copyless Redis Protocol in Rust with Parsing Combinators](https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators)
-* [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)
+
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
 * [Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 

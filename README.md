@@ -4,11 +4,11 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 ## Table of contents
 
-* [Algorithms / Data structures](#algorithms--data-structures)
+* [Algorithms / Data structures](#build-your-own-algorithms--data-structures)
 * [Bot](#build-your-own-bot)
 * [Blockchain](#build-your-own-blockchain)
 * [Database](#build-your-own-database)
-* [Embedded system]()
+* [Embedded system](#build-your-own-embedded-system)
 * [File system](#build-your-own-file-system)
 * [Game](#build-your-own-game)
 * [Garbage collector](#build-your-own-garbage-collector)
@@ -16,7 +16,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
 * [Shell](#build-your-own-shell)
-* [Virtual machine]()
+* [Virtual machine](#build-your-own-virtual-machine)
 * [Uncategorized](#uncategorized)
 
 ## Tutorials
@@ -78,8 +78,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 * [Create a UEFI application in Rust](https://gil0mendes.io/blog/an-efi-app-a-bit-rusty/)
-
-* [_also see **Raspberry Pi operating system** in Embedded section]()
+* [_also see **Raspberry Pi operating system** in Embedded section](#build-your-own-embedded-system)
 
 #### Build your own `Programming Language`
 

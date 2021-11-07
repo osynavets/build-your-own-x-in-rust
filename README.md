@@ -8,14 +8,15 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Bot](#build-your-own-bot)
 * [Blockchain](#build-your-own-blockchain)
 * [Database](#build-your-own-database)
+* [Embedded system]()
 * [File system](#build-your-own-file-system)
 * [Game](#build-your-own-game)
 * [Garbage collector](#build-your-own-garbage-collector)
 * [Network Stack](#build-your-own-network-stack)
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
-* [Regex Engine](#build-your-own-regex-engine)
 * [Shell](#build-your-own-shell)
+* [Virtual machine]()
 * [Uncategorized](#uncategorized)
 
 ## Tutorials
@@ -40,6 +41,12 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Implementing a key-value store](https://samrat.me/posts/2017-11-04-kvstore-linear-hashing/)
 * [Building a Redis client and server](https://tokio.rs/tokio/tutorial)
 
+#### Build your own `Embedded system`
+
+* [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)
+* [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-espressif/) 
+* [Raspberry Pi operating system](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+
 #### Build your own `File system`
 
 * [Writing a file system from scratch in Rust](https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html)
@@ -57,10 +64,6 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Designing a GC in Rust](https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 
-#### Build your own `Microcontrollers`
-* [Rust on the ESP32](https://mabez.dev/blog/posts/esp32-rust/)
-* [Rust on Espressif chips](https://mabez.dev/blog/posts/esp-rust-espressif/)
-
 #### Build your own `Network Stack`
 
 * [Building a DNS server in Rust](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
@@ -75,6 +78,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
 * [Create a UEFI application in Rust](https://gil0mendes.io/blog/an-efi-app-a-bit-rusty/)
+
+* [_also see **Raspberry Pi operating system** in Embedded section]()
 
 #### Build your own `Programming Language`
 
@@ -99,7 +104,6 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
 * [Async ZooKeeper client in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA)
 * [Implementing a Copyless Redis Protocol in Rust with Parsing Combinators](https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators)
-
 * [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
 * [Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
 

@@ -16,6 +16,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
 * [Shell](#build-your-own-shell)
+* [Video Codecs]
 * [Virtual machine](#build-your-own-virtual-machine)
 * [Uncategorized](#uncategorized)
 
@@ -90,6 +91,9 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Shell`
 
 * [Build Your Own Shell using Rust](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+
+#### Build your own `Video Codecs`
+* [Hello, Video Codec. Implementing one from scratch](https://blog.tempus-ex.com/hello-video-codec/)
 
 #### Build your own `Virtual machine`
 

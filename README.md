@@ -16,7 +16,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Operating System](#build-your-own-operating-system)
 * [Programming Language](#build-your-own-programming-language)
 * [Shell](#build-your-own-shell)
-* [Video Codecs]
+* [Video Codecs](#build-your-own-video-codecs)
 * [Virtual machine](#build-your-own-virtual-machine)
 * [Uncategorized](#uncategorized)
 

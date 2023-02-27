@@ -54,6 +54,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Game`
 
+* [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
 * [Adventures in Rust: A Basic 2D Game](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
 * [Roguelike Tutorial - In Rust + RLTK](https://bfnightly.bracketproductions.com/)

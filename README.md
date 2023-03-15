@@ -79,7 +79,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Writing an OS in Rust](https://os.phil-opp.com/)
 * [intermezzOS - teaching operating system](http://intermezzos.github.io/)
 * [The Adventures of OS: Making a RISC-V Operating System using Rust](http://osblog.stephenmarz.com/)
-* [Create a UEFI application in Rust](https://gil0mendes.io/blog/an-efi-app-a-bit-rusty/)
+* [Creating a UEFI application](https://rust-osdev.github.io/uefi-rs/HEAD/tutorial/app.html#creating-a-uefi-application)
 * [_also see **Raspberry Pi operating system** in Embedded section_](#build-your-own-embedded-system)
 * [OCI-compliant container runtime in Rust](https://itnext.io/container-runtime-in-rust-part-0-7af709415cda)
 * [The Xous Operating System - microkernel message-passing OS written in pure Rust](https://betrusted.io/xous-book/title-page.html)

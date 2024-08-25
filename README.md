@@ -62,6 +62,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Conway's Game of Life in Rust and WebAssembly](https://rustwasm.github.io/docs/book/game-of-life/introduction.html#tutorial-conways-game-of-life)
 * [Creating a Pong clone with Rust and Tetra](https://tetra.seventeencups.net/tutorial/)
 * [Rust Sokoban](https://sokoban.iolivia.me/c01-00-intro.html)
+* [Tutorial: Writing a Tiny Rust Game Engine for Web](https://ianjk.com/game-engine-in-rust/)
+* [Tetris in Rust from scratch](https://www.youtube.com/playlist?list=PLBNbqulT6FWw9C39_WIT_dcCIj1AdxiAy) (youtube)
 
 #### Build your own `Garbage collector`
 

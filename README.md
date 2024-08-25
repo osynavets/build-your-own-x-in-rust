@@ -41,6 +41,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 * [Implementing a key-value store](https://samrat.me/posts/2017-11-04-kvstore-linear-hashing/)
 * [Building a Redis client and server](https://tokio.rs/tokio/tutorial)
+* [Build your own SQLite](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 
 #### Build your own `Embedded system`
 

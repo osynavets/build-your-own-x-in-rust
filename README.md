@@ -101,7 +101,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 #### Build your own `Virtual machine`
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
-* [Writing a container in Rust](https://litchipi.github.io/series/container_in_rust)
+* [Writing a container in Rust](https://litchipi.site/serie/containers_in_rust)
 
 #### Uncategorized
 

@@ -55,7 +55,7 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 
 #### Build your own `Game`
 
-* [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting/)
+* [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/raycasting/)
 * [Adventures in Rust: A Basic 2D Game](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [Roguelike Tutorial in Rust + tcod](https://tomassedovic.github.io/roguelike-tutorial/)
 * [Roguelike Tutorial - In Rust + RLTK](https://bfnightly.bracketproductions.com/)
@@ -113,8 +113,8 @@ Credits for idea and some links go to https://github.com/danistefanovic/build-yo
 * [Porting Flamegraph to Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFimAvMW-kIJUwxpPvcPBCsz)
 * [Async ZooKeeper client in Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFg_DTNScO6_XHGUN9Fs1-bA)
 * [Implementing a Copyless Redis Protocol in Rust with Parsing Combinators](https://dpbriggs.ca/blog/Implementing-A-Copyless-Redis-Protocol-in-Rust-With-Parsing-Combinators)
-* [Hecto: Build your own text editor in Rust](https://www.philippflenker.com/hecto/)
-* [Building a Tiny Markdown Compiler](https://jesselawson.org/rust/getting-started-with-rust-by-building-a-tiny-markdown-compiler/)
+* [Hecto: Build your own text editor in Rust](https://flenker.blog/hecto/)
+* [Building a Tiny Markdown Compiler](https://jesselawson.github.io/getting-started-with-rust/)
 
 
 ## How to contribute 
